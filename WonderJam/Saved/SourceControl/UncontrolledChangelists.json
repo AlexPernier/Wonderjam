@@ -5,9 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/marcd/OneDrive/Bureau/gamejam/GameJam/Wonderjam/WonderJam/Content/Levels/GYM/test_level.umap",
-				"C:/Users/marcd/OneDrive/Bureau/gamejam/GameJam/Wonderjam/WonderJam/Content/Levels/GYM/NewWidgetBlueprint.uasset",
-				"C:/Users/marcd/OneDrive/Bureau/gamejam/GameJam/Wonderjam/WonderJam/Content/Levels/GYM/HUD.uasset"
+				"C:/projet/Wonderjam/WonderJam/Content/Levels/GYM/GYM_MapRunning.umap",
+				"C:/projet/Wonderjam/WonderJam/Content/BP/BP_SphereRacing.uasset",
+				"C:/projet/Wonderjam/WonderJam/Content/BP/BP_Spline.uasset",
+				"C:/projet/Wonderjam/WonderJam/Content/BP/BP_SphereRun.uasset",
+				"C:/projet/Wonderjam/WonderJam/Content/BP/BP_DetectEnd.uasset",
+				"C:/projet/Wonderjam/WonderJam/Content/BP/BP_PlayerSlave.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/marcd/OneDrive/Bureau/gamejam/GameJam/Wonderjam/WonderJam/Content/Levels/GYM/test_level.umap"
 			]
 		}
 	]
